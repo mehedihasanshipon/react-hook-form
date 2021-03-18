@@ -1,0 +1,12 @@
+.form-style{
+    height: 60%;
+    margin: auto;
+}
+.form-style input{
+    display: block ;
+    padding: 5px 30px;
+    margin: 5px;
+}
+.error{
+    color: red;
+}

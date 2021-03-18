@@ -1,0 +1,6 @@
+@media only screen and (max-width: 768px ) and (min-width: 576px ) {
+	.card-div.card-custom.col-md-6.col-lg-4{
+        position: absolute;
+        top: 32.5rem !important;
+    }
+}
